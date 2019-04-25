@@ -1,0 +1,181 @@
+{
+    "code": 1,
+    "msg": "success",
+    "data": [
+        {
+            "key": "梧桐树",
+            "value": {
+                "wutong": {
+                    "user_id": 26,
+                    "header_img": "uploads/files/20190326/cd70b1f28e8da5b478c7c61d66f5b0ed.png",
+                    "user_name": "赵欣(自己)"
+                },
+                "qingteng": "青藤(6)"
+            }
+        },
+        {
+            "key": "凤凰巢(2)",
+            "lists": {},
+            "count": "满员：72人",
+            "value": {
+                "key": "",
+                "all": "云雀(4)",
+                "count": "满员：7776人",
+                "lists": [
+                    {
+                        "key": {
+                            "user_id": 27,
+                            "header_img": "uploads/files/20190327/56196a60810da2e87c23db43ac6ecaa2.png",
+                            "user_name": "曹旭"
+                        },
+                        "value": [
+                            {
+                                "key": {
+                                    "user_id": 28,
+                                    "header_img": "static/system/system_male.png",
+                                    "user_name": ""
+                                },
+                                "value": []
+                            },
+                            {
+                                "key": {
+                                    "user_id": 33,
+                                    "header_img": "static/system/system_female.png",
+                                    "user_name": "张五"
+                                },
+                                "value": []
+                            },
+                            {
+                                "key": {
+                                    "user_id": 62,
+                                    "header_img": "static/system/system_male.png",
+                                    "user_name": ""
+                                },
+                                "value": []
+                            }
+                        ]
+                    },
+                    {
+                        "key": {
+                            "user_id": 32,
+                            "header_img": "static/system/system_female.png",
+                            "user_name": "张四"
+                        },
+                        "value": [
+                            {
+                                "key": {
+                                    "user_id": 73,
+                                    "header_img": "static/system/system_female.png",
+                                    "user_name": "大哥"
+                                },
+                                "value": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
+
+
+{
+    "code": 1,
+    "msg": "success",
+    "data": [
+        {
+            "key": "梧桐树",
+            "value": {
+                "wutong": {
+                    "user_id": 26,
+                    "header_img": "uploads/files/20190326/cd70b1f28e8da5b478c7c61d66f5b0ed.png",
+                    "user_name": "赵欣"
+                },
+                "qingteng": ""
+            }
+        },
+        {
+            "key": "凤凰巢",
+            "lists": {
+                "user_id": 27,
+                "header_img": "uploads/files/20190327/56196a60810da2e87c23db43ac6ecaa2.png",
+                "user_name": "曹旭(自己)"
+            },
+            "count": "",
+            "value": {
+                "key": "",
+                "all": "云雀(3)",
+                "count": "满员：108人",
+                "lists": [
+                    {
+                        "key": {
+                            "user_id": 28,
+                            "header_img": "static/system/system_male.png",
+                            "user_name": ""
+                        },
+                        "value": []
+                    },
+                    {
+                        "key": {
+                            "user_id": 33,
+                            "header_img": "static/system/system_female.png",
+                            "user_name": "张五"
+                        },
+                        "value": []
+                    },
+                    {
+                        "key": {
+                            "user_id": 62,
+                            "header_img": "static/system/system_male.png",
+                            "user_name": ""
+                        },
+                        "value": []
+                    }
+                ]
+            }
+        }
+    ]
+}
+
+
+{
+    "code": 1,
+    "msg": "success",
+    "data": [
+        {
+            "key": "梧桐树",
+            "value": {
+                "wutong": {
+                    "user_id": 26,
+                    "header_img": "uploads/files/20190326/cd70b1f28e8da5b478c7c61d66f5b0ed.png",
+                    "user_name": "赵欣"
+                },
+                "qingteng": ""
+            }
+        },
+        {
+            "key": "凤凰巢",
+            "lists": {
+                "user_id": 27,
+                "header_img": "uploads/files/20190327/56196a60810da2e87c23db43ac6ecaa2.png",
+                "user_name": "曹旭"
+            },
+            "count": "",
+            "value": {
+                "key": "云雀",
+                "all": "",
+                "count": "",
+                "lists": [
+                    {
+                        "key": {
+                            "user_id": 33,
+                            "header_img": "static/system/system_female.png",
+                            "user_name": "张五(自己)"
+                        },
+                        "value": []
+                    }
+                ]
+            }
+        }
+    ]
+}

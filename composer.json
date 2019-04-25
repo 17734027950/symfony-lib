@@ -17,7 +17,10 @@
         "symfony/css-selector":"*",
         "symfony/validator":"*",
         "symfony/cache":"*",
-        "symfony/templating":"*"
+        "symfony/templating":"*",
+        "niklaslu/php-form-builder":"*",
+        "symfony/security-csrf":"*",
+        "symfony/twig-bridge":"*"
         
     }
 }

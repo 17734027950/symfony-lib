@@ -19,6 +19,10 @@ class ComposerStaticInitcebf34a4d9334ea0e83e0c9ba408d256
     );
 
     public static $prefixLengthsPsr4 = array (
+        'n' => 
+        array (
+            'niklaslu\\' => 9,
+        ),
         'T' => 
         array (
             'Twig\\' => 5,
@@ -35,6 +39,8 @@ class ComposerStaticInitcebf34a4d9334ea0e83e0c9ba408d256
             'Symfony\\Component\\Validator\\' => 28,
             'Symfony\\Component\\Translation\\' => 30,
             'Symfony\\Component\\Templating\\' => 29,
+            'Symfony\\Component\\Security\\Csrf\\' => 32,
+            'Symfony\\Component\\Security\\Core\\' => 32,
             'Symfony\\Component\\PropertyAccess\\' => 33,
             'Symfony\\Component\\OptionsResolver\\' => 34,
             'Symfony\\Component\\Finder\\' => 25,
@@ -42,6 +48,7 @@ class ComposerStaticInitcebf34a4d9334ea0e83e0c9ba408d256
             'Symfony\\Component\\DomCrawler\\' => 29,
             'Symfony\\Component\\CssSelector\\' => 30,
             'Symfony\\Component\\Cache\\' => 24,
+            'Symfony\\Bridge\\Twig\\' => 20,
         ),
         'P' => 
         array (
@@ -71,6 +78,10 @@ class ComposerStaticInitcebf34a4d9334ea0e83e0c9ba408d256
     );
 
     public static $prefixDirsPsr4 = array (
+        'niklaslu\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/niklaslu/php-form-builder/src',
+        ),
         'Twig\\' => 
         array (
             0 => __DIR__ . '/..' . '/twig/twig/src',
@@ -115,6 +126,14 @@ class ComposerStaticInitcebf34a4d9334ea0e83e0c9ba408d256
         array (
             0 => __DIR__ . '/..' . '/symfony/templating',
         ),
+        'Symfony\\Component\\Security\\Csrf\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/security-csrf',
+        ),
+        'Symfony\\Component\\Security\\Core\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/security-core',
+        ),
         'Symfony\\Component\\PropertyAccess\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/property-access',
@@ -142,6 +161,10 @@ class ComposerStaticInitcebf34a4d9334ea0e83e0c9ba408d256
         'Symfony\\Component\\Cache\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/cache',
+        ),
+        'Symfony\\Bridge\\Twig\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/twig-bridge',
         ),
         'Psr\\SimpleCache\\' => 
         array (
